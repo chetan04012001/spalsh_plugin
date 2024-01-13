@@ -17,9 +17,9 @@ and the Flutter guide for
 Instant splash Screen Ready: 
 just add :
 1) Route 
-2)Image 
-3)Welcome Text
-4)Duration
+2) Image 
+3) Welcome Text
+4) Duration
 
 ## Getting started
 To use this package add splash_plugin as a dependency in your pubspec.yaml
