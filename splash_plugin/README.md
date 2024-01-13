@@ -27,7 +27,7 @@ To use this package add splash_plugin as a dependency in your pubspec.yaml
 ## Usage
 
 ```dart
-SplashScreen(
+SplashPlugin(
   nextScreen: YourCustomScreen(),
   imagePath: 'your_custom_image.png',
   welcomeText: 'Your Custom Welcome Text',
