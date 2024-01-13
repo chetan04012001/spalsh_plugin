@@ -37,6 +37,5 @@ SplashScreen(
   duration: Duration(milliseconds: 3000), // Customize the duration here
 )
 
-```
 
 
