@@ -26,9 +26,6 @@ To use this package add splash_plugin as a dependency in your pubspec.yaml
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
 ```dart
 SplashScreen(
   nextScreen: YourCustomScreen(),
